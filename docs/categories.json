@@ -1,0 +1,41 @@
+{
+    "data": {
+        "listCategories": [{
+                "id": 94,
+                "icon": "https://courier-images-prod.imgix.net/category/beer%403x.png",
+                "displayName": "Cervejas",
+                "order": 1
+            },
+            {
+                "id": 95,
+                "icon": "https://courier-images-prod.imgix.net/category/distilled%403x.png",
+                "displayName": "Destilados",
+                "order": 2
+            },
+            {
+                "id": 92,
+                "icon": "https://courier-images-prod.imgix.net/category/wine%403x.png",
+                "displayName": "Vinhos",
+                "order": 3
+            },
+            {
+                "id": 96,
+                "icon": "https://courier-images-prod.imgix.net/category/juice%403x.png",
+                "displayName": "Sem \u00e1lcool",
+                "order": 4
+            },
+            {
+                "id": 97,
+                "icon": "https://courier-images-prod.imgix.net/category/chips%403x.png",
+                "displayName": "Petiscos",
+                "order": 5
+            },
+            {
+                "id": 98,
+                "icon": "https://courier-images-prod.imgix.net/category/others%403x.png",
+                "displayName": "Outros",
+                "order": 6
+            }
+        ]
+    }
+}

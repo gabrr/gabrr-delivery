@@ -1,0 +1,35 @@
+body {
+    background-color: #969696;
+}
+
+#productsPage {
+    width: 90%;
+    padding: 0 5%;
+    margin: 20vh auto;
+    max-width: 1200px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.card {
+    width: calc(100% - 22px);
+    height: auto;
+    padding: 20px 11px;
+    background: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.8);
+    border-radius: 7px;
+}
+
+#productsPage .productsHeader {
+    font-weight: 600;
+    font-size: 140%;
+}
+
+#productsPage .selectedItems {
+    margin-bottom: 50px;
+}
+
+#productsPage .grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px 30px;
+}

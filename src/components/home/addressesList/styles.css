@@ -1,0 +1,36 @@
+#addressesList {
+    position: relative;
+    overflow-y: scroll;
+    height: max-content;
+    max-height: 300px;
+    width: calc(100% - 50px);
+    max-width: 600px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .96);
+    top: 5px;
+    padding: 5px 25px 30px;
+    color: rgba(0, 0, 0, 0.8);
+    font-family: 'Open sans', sans-serif;
+}
+
+#addressesList .about {
+    font-size: 90%;
+    font-weight: 600;
+    margin: 15px 0 0;
+}
+
+#addressesList .postocde {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.8);
+    margin: 2px 0 20px;
+}
+
+.option:hover {
+    color: rgba(146, 10, 20, 0.8);
+    cursor: pointer;
+}
+
+#addressesList a {
+    color: inherit !important;
+    text-decoration: inherit !important;
+}

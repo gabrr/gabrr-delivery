@@ -1,0 +1,22 @@
+{
+    "operationName": "setDeliveryOption",
+    "variables": {
+        "deliveryOption": {
+            "address": {
+                "latitude": -23.56333495513772,
+                "longitude": -46.68606202723966,
+                "zipcode": "05416-000",
+                "street": "Rua Fradique Coutinho",
+                "neighborhood": "Pinheiros",
+                "city": "São Paulo",
+                "province": "SP",
+                "country": "BR",
+                "number": "380"
+            },
+            "deliveryMethod": "DELIVERY",
+            "schedule": "NOW"
+        },
+        "forceOverrideProducts": false
+    },
+    "query": "mutation setDeliveryOption($deliveryOption: DeliveryOptionInput, $forceOverrideProducts: Boolean) {\n  manageCheckout(deliveryOption: $deliveryOption, forceOverrideProducts: $forceOverrideProducts) {\n    messages {\n      category\n      target\n      key\n      args\n      message\n    }\n    checkout {\n      id\n      deliveryOption {\n        address {\n          latitude\n          longitude\n          zipcode\n          country\n          province\n          city\n          neighborhood\n          street\n          number\n          addressLine2\n        }\n        deliveryMethod\n        schedule\n        scheduleDateTime\n        pickupPoc {\n          id\n          tradingName\n          address {\n            latitude\n            longitude\n            zipcode\n            country\n            province\n            city\n            neighborhood\n            street\n            number\n            addressLine2\n          }\n        }\n      }\n      paymentMethod {\n        id\n        displayName\n      }\n    }\n  }\n}\n"
+}

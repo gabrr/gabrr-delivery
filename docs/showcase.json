@@ -1,0 +1,473 @@
+{
+    "data": {
+        "loadShowCase": {
+            "messages": [],
+            "showCase": {
+                "images": [],
+                "shelves": [{
+                        "id": "BANNER",
+                        "type": "CUSTOM",
+                        "displayName": "Destaques",
+                        "items": [{
+                                "id": "2773605",
+                                "type": "PROMOTION",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/discount/AW2120NABSP_cf28037e-157a-4f9c-8bdf-76e078127a9e.jpg"
+                                ],
+                                "displayName": "AW2120NABSP",
+                                "applicableDiscount": null,
+                                "category": null,
+                                "brand": null,
+                                "price": null
+                            },
+                            {
+                                "id": "2767780",
+                                "type": "PROMOTION",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/discount/BW20Y20AWASKOL_d2c63af8-05cd-4f23-a779-bdbe39db5172.jpg"
+                                ],
+                                "displayName": "BW20Y20AWASKOL",
+                                "applicableDiscount": null,
+                                "category": null,
+                                "brand": null,
+                                "price": null
+                            },
+                            {
+                                "id": "2732169",
+                                "type": "PROMOTION",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/discount/DW2120GPSPC_0f0590c0-dd71-4315-962d-7d197712b570.jpg"
+                                ],
+                                "displayName": "DW2120GPSPC",
+                                "applicableDiscount": null,
+                                "category": null,
+                                "brand": null,
+                                "price": null
+                            }
+                        ]
+                    },
+                    {
+                        "id": "94",
+                        "type": "CATEGORY",
+                        "displayName": "Cervejas",
+                        "items": [{
+                                "id": "8502",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00008502_8df6cda6-722b-4523-9afd-bb518ec1efb1.jpg"
+                                ],
+                                "displayName": "Skol 269ml",
+                                "applicableDiscount": {
+                                    "presentedDiscountValue": 0.0913,
+                                    "discountType": 2,
+                                    "finalValue": 1.9900529999999998
+                                },
+                                "category": { "id": 94, "displayName": "Cervejas" },
+                                "brand": { "id": 3, "displayName": "Skol" },
+                                "price": { "min": 2.19, "max": 2.19 }
+                            },
+                            {
+                                "id": "8511",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00008511_81af619a-8024-42d8-b009-7127afc6baa8.jpg"
+                                ],
+                                "displayName": "Brahma 269ml",
+                                "applicableDiscount": {
+                                    "presentedDiscountValue": 0.0478,
+                                    "discountType": 2,
+                                    "finalValue": 1.990098
+                                },
+                                "category": { "id": 94, "displayName": "Cervejas" },
+                                "brand": { "id": 23, "displayName": "Brahma" },
+                                "price": { "min": 2.09, "max": 2.09 }
+                            },
+                            {
+                                "id": "8579",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00008579_dfcca1fc-3364-4927-bcd6-d514c73ce88b.jpg"
+                                ],
+                                "displayName": "Budweiser 350ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 94, "displayName": "Cervejas" },
+                                "brand": { "id": 1, "displayName": "Budweiser" },
+                                "price": { "min": 2.99, "max": 2.99 }
+                            },
+                            {
+                                "id": "8581",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00008581_97b0cc1f-39fd-4af0-8749-3ea805c88365.jpg"
+                                ],
+                                "displayName": "Stella Artois 275ml",
+                                "applicableDiscount": {
+                                    "presentedDiscountValue": 0.0792,
+                                    "discountType": 2,
+                                    "finalValue": 3.489832
+                                },
+                                "category": { "id": 94, "displayName": "Cervejas" },
+                                "brand": { "id": 49, "displayName": "Stella Artois" },
+                                "price": { "min": 3.79, "max": 3.79 }
+                            },
+                            {
+                                "id": "8508",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00008508_6827c5ed-1390-4438-b43e-5f671ffa930c.jpg"
+                                ],
+                                "displayName": "Skol 473ml",
+                                "applicableDiscount": {
+                                    "presentedDiscountValue": 0.0295,
+                                    "discountType": 2,
+                                    "finalValue": 3.2899950000000002
+                                },
+                                "category": { "id": 94, "displayName": "Cervejas" },
+                                "brand": { "id": 3, "displayName": "Skol" },
+                                "price": { "min": 3.39, "max": 3.39 }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "95",
+                        "type": "CATEGORY",
+                        "displayName": "Destilados",
+                        "items": [{
+                                "id": "9250",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00009250_1a65a4e4-1c96-448e-8b04-5057ca6000eb.jpg"
+                                ],
+                                "displayName": "Conhaque Dreher 900ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 95, "displayName": "Destilados" },
+                                "brand": null,
+                                "price": { "min": 16.99, "max": 16.99 }
+                            },
+                            {
+                                "id": "9152",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00009518_97115052-d9fc-46c3-bc39-33b4cec15cd5.jpg"
+                                ],
+                                "displayName": "Vodka Smirnoff 998ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 95, "displayName": "Destilados" },
+                                "brand": null,
+                                "price": { "min": 35.9, "max": 35.9 }
+                            },
+                            {
+                                "id": "9144",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00009510_06e4e5a8-7798-4b42-a6dc-e35af2b80344.jpg"
+                                ],
+                                "displayName": "Whisky Johnnie Walker Red Label 1L",
+                                "applicableDiscount": null,
+                                "category": { "id": 95, "displayName": "Destilados" },
+                                "brand": { "id": 104, "displayName": "Schin" },
+                                "price": { "min": 94.9, "max": 94.9 }
+                            },
+                            {
+                                "id": "9249",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/9249_c748f490-e7df-450c-bbbe-45396a993ed7.jpg"
+                                ],
+                                "displayName": "Whisky Ballantines Finest 1L",
+                                "applicableDiscount": null,
+                                "category": { "id": 95, "displayName": "Destilados" },
+                                "brand": null,
+                                "price": { "min": 99.9, "max": 99.9 }
+                            },
+                            {
+                                "id": "9256",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00009256_443acb96-c3fe-46d6-a898-4c34723811fb.jpg"
+                                ],
+                                "displayName": "Whisky White Horse 1L",
+                                "applicableDiscount": null,
+                                "category": { "id": 95, "displayName": "Destilados" },
+                                "brand": null,
+                                "price": { "min": 74.9, "max": 74.9 }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "92",
+                        "type": "CATEGORY",
+                        "displayName": "Vinhos",
+                        "items": [{
+                                "id": "9174",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/products/9174.png"
+                                ],
+                                "displayName": "Vinho Tinto Seco Carmenere Reservado Santa Helena 750ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 92, "displayName": "Vinhos" },
+                                "brand": null,
+                                "price": { "min": 44.9, "max": 44.9 }
+                            },
+                            {
+                                "id": "9175",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/products/9175.png"
+                                ],
+                                "displayName": "Vinho Tinto Seco Cabernet Sauvignon Reservado Santa Helena 750ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 92, "displayName": "Vinhos" },
+                                "brand": null,
+                                "price": { "min": 44.9, "max": 44.9 }
+                            },
+                            {
+                                "id": "9177",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00009543_adf61e69-b97e-4938-a659-b4fdb30d428b.jpg"
+                                ],
+                                "displayName": "Vinho Branco Chardonnay Santa Helena 750ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 92, "displayName": "Vinhos" },
+                                "brand": null,
+                                "price": { "min": 44.9, "max": 44.9 }
+                            },
+                            {
+                                "id": "9248",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00009248_c7bc5518-92a1-4403-a2c6-7a3d908facf1.jpg"
+                                ],
+                                "displayName": "Vinho Branco Jurupinga Dinalle 975ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 92, "displayName": "Vinhos" },
+                                "brand": null,
+                                "price": { "min": 25.9, "max": 25.9 }
+                            },
+                            {
+                                "id": "9307",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00009307_2268595e-b6cb-4fe3-8727-d467c1d371fa.jpg"
+                                ],
+                                "displayName": "Espumante Chandon Brut 750ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 92, "displayName": "Vinhos" },
+                                "brand": null,
+                                "price": { "min": 109.9, "max": 109.9 }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "96",
+                        "type": "CATEGORY",
+                        "displayName": "Sem \u00e1lcool",
+                        "items": [{
+                                "id": "9996",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00009996_b206e2f5-c144-4059-8018-40f33780a804.jpg"
+                                ],
+                                "displayName": "Red Bull Sugarfree 250ml",
+                                "applicableDiscount": {
+                                    "presentedDiscountValue": 0.2003,
+                                    "discountType": 2,
+                                    "finalValue": 5.989753
+                                },
+                                "category": { "id": 96, "displayName": "Sem \u00e1lcool" },
+                                "brand": null,
+                                "price": { "min": 7.49, "max": 7.49 }
+                            },
+                            {
+                                "id": "9995",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00009995_1df77bf6-ece4-4f08-b38a-589f324fcf0c.jpg"
+                                ],
+                                "displayName": "Red Bull 250ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 96, "displayName": "Sem \u00e1lcool" },
+                                "brand": null,
+                                "price": { "min": 7.49, "max": 7.49 }
+                            },
+                            {
+                                "id": "8857",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00008857_e472af8c-d5fa-45e1-9dbb-23c4f378179a.jpg"
+                                ],
+                                "displayName": "T\u00f4nica Antarctica 350ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 96, "displayName": "Sem \u00e1lcool" },
+                                "brand": null,
+                                "price": { "min": 2.63, "max": 2.63 }
+                            },
+                            {
+                                "id": "8872",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00008872_ba5f02a6-626f-4014-8488-bdf671995017.jpg"
+                                ],
+                                "displayName": "T\u00f4nica Antarctica Zero 350ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 96, "displayName": "Sem \u00e1lcool" },
+                                "brand": null,
+                                "price": { "min": 2.63, "max": 2.63 }
+                            },
+                            {
+                                "id": "8865",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00009231_4f387d0e-7cab-423c-8e73-de6d45f54c8b.jpg"
+                                ],
+                                "displayName": "Guaran\u00e1 Zero 350ml",
+                                "applicableDiscount": {
+                                    "presentedDiscountValue": 0.2183,
+                                    "discountType": 2,
+                                    "finalValue": 1.7900930000000002
+                                },
+                                "category": { "id": 96, "displayName": "Sem \u00e1lcool" },
+                                "brand": null,
+                                "price": { "min": 2.29, "max": 2.29 }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "97",
+                        "type": "CATEGORY",
+                        "displayName": "Petiscos",
+                        "items": [{
+                                "id": "10170",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00010170_d00d9daf-13d7-408d-8e55-8849f3e1ca45.jpg"
+                                ],
+                                "displayName": "Amendoim Japon\u00eas Elma Chips 145g",
+                                "applicableDiscount": null,
+                                "category": { "id": 97, "displayName": "Petiscos" },
+                                "brand": null,
+                                "price": { "min": 5.99, "max": 5.99 }
+                            },
+                            {
+                                "id": "10179",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00010179_dda3ae8a-8cc2-4a17-a119-183f4e1b621f.jpg"
+                                ],
+                                "displayName": "Doritos Queijo Nacho 48g",
+                                "applicableDiscount": null,
+                                "category": { "id": 97, "displayName": "Petiscos" },
+                                "brand": null,
+                                "price": { "min": 4.99, "max": 4.99 }
+                            },
+                            {
+                                "id": "10190",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00010190_6d330958-3534-43bc-8679-c03b30442afb.jpg"
+                                ],
+                                "displayName": "Ruffles Original 41g",
+                                "applicableDiscount": null,
+                                "category": { "id": 97, "displayName": "Petiscos" },
+                                "brand": null,
+                                "price": { "min": 2.99, "max": 2.99 }
+                            },
+                            {
+                                "id": "9102",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00009468_0eef7058-71b7-4c31-b8a3-473d62f0f710.jpg"
+                                ],
+                                "displayName": "Pipoca Sabor Natural - 100g",
+                                "applicableDiscount": null,
+                                "category": { "id": 97, "displayName": "Petiscos" },
+                                "brand": null,
+                                "price": { "min": 4.0, "max": 4.0 }
+                            },
+                            {
+                                "id": "9104",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00009470_6aeaf4f0-4a58-407c-b651-2f779efd582a.jpg"
+                                ],
+                                "displayName": "Pipoca Sabor Manteiga - 100g",
+                                "applicableDiscount": null,
+                                "category": { "id": 97, "displayName": "Petiscos" },
+                                "brand": null,
+                                "price": { "min": 4.0, "max": 4.0 }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "98",
+                        "type": "CATEGORY",
+                        "displayName": "Outros",
+                        "items": [{
+                                "id": "8424",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00008790_cee07f3b-aa74-4b02-aee5-e4f386076084.jpg"
+                                ],
+                                "displayName": "Halls Extra Forte",
+                                "applicableDiscount": null,
+                                "category": { "id": 98, "displayName": "Outros" },
+                                "brand": null,
+                                "price": { "min": 1.99, "max": 1.99 }
+                            },
+                            {
+                                "id": "9240",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00009240_7ab17acb-e118-4be1-a6c4-ffb431e31246.jpg"
+                                ],
+                                "displayName": "Trident Menta 8g",
+                                "applicableDiscount": null,
+                                "category": { "id": 98, "displayName": "Outros" },
+                                "brand": null,
+                                "price": { "min": 2.19, "max": 2.19 }
+                            },
+                            {
+                                "id": "9344",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/produc_variant/00009344_66712ff0-d57f-4c43-b963-c80b4e1b73c4.jpg"
+                                ],
+                                "displayName": "A\u00e7ai Frooty Original com Granola 200ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 98, "displayName": "Outros" },
+                                "brand": null,
+                                "price": { "min": 14.9, "max": 14.9 }
+                            },
+                            {
+                                "id": "9039",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00009405_43a71fd3-7ba5-4e26-b84c-e3088e663637.jpg"
+                                ],
+                                "displayName": "Camisinha Olla 3 un.",
+                                "applicableDiscount": null,
+                                "category": { "id": 98, "displayName": "Outros" },
+                                "brand": null,
+                                "price": { "min": 9.9, "max": 9.9 }
+                            },
+                            {
+                                "id": "8993",
+                                "type": "PRODUCT",
+                                "images": [
+                                    "https://courier-images-prod.imgix.net/product/00009359_ba6b7b62-da76-4a8c-9618-c41ae32403bd.jpg"
+                                ],
+                                "displayName": "Copo Pl\u00e1stico 300ml",
+                                "applicableDiscount": null,
+                                "category": { "id": 98, "displayName": "Outros" },
+                                "brand": null,
+                                "price": { "min": 9.9, "max": 9.9 }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

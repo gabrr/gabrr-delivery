@@ -1,0 +1,245 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [{
+        "name": "see attribution guide",
+        "url": "https://opencagedata.com/credits"
+    }],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2496,
+        "reset": 1590451200
+    },
+    "results": [{
+            "annotations": {
+                "DMS": {
+                    "lat": "23° 25' 5.54736'' S",
+                    "lng": "46° 24' 29.23848'' W"
+                },
+                "MGRS": "23KLQ5613109480",
+                "Maidenhead": "GG66tn19ap",
+                "Mercator": {
+                    "x": -5166128.487,
+                    "y": -2665697.006
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5774188124#map=16/-23.41821/-46.40812",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-23.41821/-46.40812&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-23.41821&mlon=-46.40812#map=16/-23.41821/-46.40812"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "BR": "076",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 55,
+                "currency": {
+                    "decimal_mark": ",",
+                    "html_entity": "R$",
+                    "iso_code": "BRL",
+                    "iso_numeric": "986",
+                    "name": "Brazilian Real",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "R$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "🇧🇷",
+                "geohash": "6gyfzbyeh3sq345dgjb4",
+                "qibla": 68.85,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1590399480,
+                        "astronomical": 1590394740,
+                        "civil": 1590398040,
+                        "nautical": 1590396360
+                    },
+                    "set": {
+                        "apparent": 1590438420,
+                        "astronomical": 1590443160,
+                        "civil": 1590439860,
+                        "nautical": 1590441540
+                    }
+                },
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "BRT"
+                },
+                "what3words": {
+                    "words": "stable.locked.milkman"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -23.3982076,
+                    "lng": -46.3881218
+                },
+                "southwest": {
+                    "lat": -23.4382076,
+                    "lng": -46.4281218
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BR",
+                "ISO_3166-1_alpha-3": "BRA",
+                "_category": "place",
+                "_type": "neighbourhood",
+                "city": "Guarulhos",
+                "city_district": "Jardim Presidente Dutra",
+                "continent": "South America",
+                "country": "Brazil",
+                "country_code": "br",
+                "county": "Região Imediata de São Paulo",
+                "postcode": "07175090",
+                "state": "São Paulo",
+                "state_code": "SP",
+                "state_district": "Região Geográfica Intermediária de São Paulo",
+                "suburb": "Vila Nova Bonsucesso"
+            },
+            "confidence": 7,
+            "formatted": "Vila Nova Bonsucesso, Guarulhos - SP, 07175-090, Brazil",
+            "geometry": {
+                "lat": -23.4182076,
+                "lng": -46.4081218
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "23° 24' 26.92440'' S",
+                    "lng": "46° 23' 25.88856'' W"
+                },
+                "MGRS": "23KLQ5791810686",
+                "Maidenhead": "GG66to32de",
+                "Mercator": {
+                    "x": -5164169.576,
+                    "y": -2664402.893
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?node=5760876334#map=16/-23.40748/-46.39052",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=16/-23.40748/-46.39052&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=-23.40748&mlon=-46.39052#map=16/-23.40748/-46.39052"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "AMERICAS": "019",
+                        "BR": "076",
+                        "LATIN_AMERICA": "419",
+                        "SOUTH_AMERICA": "005",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 55,
+                "currency": {
+                    "decimal_mark": ",",
+                    "html_entity": "R$",
+                    "iso_code": "BRL",
+                    "iso_numeric": "986",
+                    "name": "Brazilian Real",
+                    "smallest_denomination": 5,
+                    "subunit": "Centavo",
+                    "subunit_to_unit": 100,
+                    "symbol": "R$",
+                    "symbol_first": 1,
+                    "thousands_separator": "."
+                },
+                "flag": "🇧🇷",
+                "geohash": "6gz4b6g3w3tsytj0gre9",
+                "qibla": 68.84,
+                "roadinfo": {
+                    "drive_on": "right",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1590399480,
+                        "astronomical": 1590394740,
+                        "civil": 1590398040,
+                        "nautical": 1590396360
+                    },
+                    "set": {
+                        "apparent": 1590438420,
+                        "astronomical": 1590443160,
+                        "civil": 1590439860,
+                        "nautical": 1590441540
+                    }
+                },
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "now_in_dst": 0,
+                    "offset_sec": -10800,
+                    "offset_string": "-0300",
+                    "short_name": "BRT"
+                },
+                "what3words": {
+                    "words": "strategy.slide.runways"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": -23.387479,
+                    "lng": -46.3705246
+                },
+                "southwest": {
+                    "lat": -23.427479,
+                    "lng": -46.4105246
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "BR",
+                "ISO_3166-1_alpha-3": "BRA",
+                "_category": "place",
+                "_type": "neighbourhood",
+                "city": "Guarulhos",
+                "city_district": "Jardim Presidente Dutra",
+                "continent": "South America",
+                "country": "Brazil",
+                "country_code": "br",
+                "county": "Região Imediata de São Paulo",
+                "postcode": "07175-130",
+                "state": "São Paulo",
+                "state_code": "SP",
+                "state_district": "Região Geográfica Intermediária de São Paulo",
+                "suburb": "Vila Nova Bonsucesso"
+            },
+            "confidence": 7,
+            "formatted": "Vila Nova Bonsucesso, Guarulhos - SP, 07175-130, Brazil",
+            "geometry": {
+                "lat": -23.407479,
+                "lng": -46.3905246
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "twitter": "https://twitter.com/OpenCage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 25 May 2020 14:23:30 GMT",
+        "created_unix": 1590416610
+    },
+    "total_results": 2
+}

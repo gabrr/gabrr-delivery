@@ -1,0 +1,29 @@
+{
+    "data": {
+        "manageCheckout": {
+            "messages": [],
+            "checkout": {
+                "id": 9722881,
+                "deliveryOption": {
+                    "address": {
+                        "latitude": -23.56333495513772,
+                        "longitude": -46.68606202723966,
+                        "zipcode": "05416-000",
+                        "country": "BR",
+                        "province": "SP",
+                        "city": "S\u00e3o Paulo",
+                        "neighborhood": "Pinheiros",
+                        "street": "Rua Fradique Coutinho",
+                        "number": "380",
+                        "addressLine2": null
+                    },
+                    "deliveryMethod": "DELIVERY",
+                    "schedule": "NOW",
+                    "scheduleDateTime": null,
+                    "pickupPoc": null
+                },
+                "paymentMethod": null
+            }
+        }
+    }
+}

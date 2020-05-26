@@ -1,0 +1,14 @@
+{
+    "data": {
+        "loadDeliveryOptions": {
+            "deliveryOptions": {
+                "deliveryMethods": ["DELIVERY"],
+                "schedules": ["NOW"],
+                "scheduleDateTimes": [],
+                "pickupPocs": []
+            },
+            "messages": [],
+            "events": ["In Delivery Range", "Out of Pickup Service"]
+        }
+    }
+}
