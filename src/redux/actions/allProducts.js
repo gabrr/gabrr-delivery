@@ -1,7 +1,6 @@
 import * as constants from '../constants'
 
 export const allProducts = data => {
-    console.log(data, 'arrived here')
     return {
         type: constants.GET_ALL_PRODUCTS,
         data: data.products
