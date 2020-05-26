@@ -1,11 +1,11 @@
 #navbar {
     position: absolute;
-    top: 10px;
+    top: 30px;
+    left: 5%;
 }
 
 .logo {
     width: max-content;
-    padding: 13px 25px;
     color: rgba(255, 255, 255, 0.95);
     border-radius: 5px;
     font-family: sans-serif;
