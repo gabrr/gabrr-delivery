@@ -3,8 +3,8 @@
 
 ### Places available
 
-- Santo amaro, sao paulo
-
+- Santo Amaro, São Paulo, Brazil.
+- Jardim São Luís, São Paulo, Brazil
 
 
 
